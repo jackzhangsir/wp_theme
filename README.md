@@ -7,7 +7,7 @@
 访问地址：[http://www.icanfly520.com/](http://www.icanfly520.com/)
 
 
-博客基本框架：[wordpress](https://wordpress.com/)
+博客基本框架：[wordpress](https://cn.wordpress.org/)
 
 
 ## 我的微信公众号
